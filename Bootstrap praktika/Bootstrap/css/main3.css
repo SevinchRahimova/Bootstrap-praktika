@@ -1,0 +1,111 @@
+.Return{
+    margin-left: 40%;
+    position: relative;
+    top: 20px;
+}
+.down{
+    transform: rotate(-90deg);
+    position: relative;
+    top: 15px;
+}
+.fixed{
+    width: 70px;
+    height: 70px;
+    display: inline-block;
+    text-align: center;
+    border: 1px solid #19eacc;
+    line-height: 45px;
+    position: fixed;
+    right: 20px;
+    bottom: 50px;
+    background-color: #18e7c9;
+    border-radius: 100%;
+    z-index: 5;
+}
+.font{
+    font-size: 14px;
+}
+.left{
+    position: relative;
+    left: 400px;
+    font-size: 14px;
+}
+.left2{
+    position: relative;
+    left: 420px;
+    font-size: 14px;
+}
+.left3{
+    position: relative;
+    left: 440px;
+    font-size: 14px;
+}
+.bg1{
+    background-color: #c5eaf6;
+    height: 95px;
+}
+.btnn{
+    width: 50px;
+    background-color: #ef9393;
+}
+.font2{
+    font-size: 20px;
+}
+.search{
+    position: relative;
+    left: 340px;
+    top: -50px;
+}
+.top{
+    border-radius: 0px;
+    position: relative;
+    top: -95px;
+    left: 930px;
+}
+.a{
+    color: gray;
+}
+.a:hover{
+    color: gray;
+    text-decoration: none;
+}
+.font2{
+    font-size: 12px;
+}
+.home{
+    background-color: lightgray;
+}
+.textfont{
+    font-size: 13px;
+}
+.container{
+    background-image: url("../../rasmlar/color_body_bg_image.jpg");
+}
+body{
+    background-color: #f3f7f8;
+}
+.toptext{
+    font-size: 12px;
+    margin-top: -10px;
+}
+.bgg{
+    background-color: #fcfcfc;
+}
+.btnbag{
+    background-color: #ef9393;
+}
+.with{
+    width: 40px;
+    height: 40px;
+}
+.bgg1{
+    background-color: #62584d;
+}
+.mleft{
+    position: relative;
+    left: 80px;
+}
+.margin{
+    position: relative;
+    top: -10px;
+}

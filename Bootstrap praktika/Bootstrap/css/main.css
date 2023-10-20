@@ -1,0 +1,171 @@
+.textfont{
+    font-size: 13px;
+}
+.container{
+    background-image: url("../../rasmlar/color_body_bg_image.jpg");
+}
+body{
+    background-color: #f3f7f8;
+}
+.text{
+    margin-left: 100px;
+}
+.left{
+    position: relative;
+    left: 400px;
+    font-size: 14px;
+}
+.left2{
+    position: relative;
+    left: 420px;
+    font-size: 14px;
+}
+.left3{
+    position: relative;
+    left: 440px;
+    font-size: 14px;
+}
+.bg1{
+    background-color: #c5eaf6;
+    height: 95px;
+}
+.btnn{
+    width: 50px;
+    background-color: #ef9393;
+}
+.font2{
+    font-size: 20px;
+}
+.search{
+    position: relative;
+    left: 340px;
+    top: -50px;
+}
+.top{
+    border-radius: 0px;
+    position: relative;
+    top: -95px;
+    left: 930px;
+}
+.a{
+    color: gray;
+}
+.a:hover{
+    color: gray;
+    text-decoration: none;
+}
+.font2{
+    font-size: 12px;
+}
+.home{
+    background-color: lightgray;
+}
+.color{
+    background-color: #18e7c9;
+}
+.textt{
+    color: white;
+    font-size: 13px;
+}
+.lleft{
+    position: relative;
+    left: 430px;
+    top: -240px;
+}
+.lleft1{
+    position: relative;
+    left: 370px;
+    top: -100px;
+}
+.lleft2{
+    position: relative;
+    left: 420px;
+    top: -240px;
+}
+.lleft3{
+    position: relative;
+    left: 355px;
+    top: -100px;
+}
+.card1{
+    border: 0;
+    position: relative;
+    left: -180px;
+    top: 100px;
+    font-size: 13px;
+    box-shadow: 15px  15px 20px gray;
+}
+.card2{
+    border: 0;
+    position: relative;
+    left: -200px;
+    top: 100px;
+    font-size: 13px;
+    box-shadow: -15px  15px 20px gray;
+}
+.color2{
+    color: #18e7c9;
+    font-size: 13px;
+}
+.rasm{
+    position: relative;
+    left: 640px;
+}
+.w{
+    width: 100%;
+}
+.top1{
+    position: relative;
+    top: -60px;
+    left: 300px;
+}
+.bordd{
+    border: 2px solid whitesmoke;
+}
+.textcol{
+    color: gray;
+}
+.toptext{
+    font-size: 12px;
+    margin-top: -10px;
+}
+.bgg{
+    background-color: #fcfcfc;
+}
+.btnbag{
+    background-color: #ef9393;
+}
+.with{
+    width: 40px;
+    height: 40px;
+}
+.bgg1{
+    background-color: #62584d;
+}
+.mleft{
+    position: relative;
+    left: 80px;
+}
+.margin{
+    position: relative;
+    top: -10px;
+}
+.down{
+    transform: rotate(-90deg);
+    position: relative;
+    top: 15px;
+}
+.fixed{
+    width: 70px;
+    height: 70px;
+    display: inline-block;
+    text-align: center;
+    border: 1px solid #18e7c9;
+    line-height: 45px;
+    position: fixed;
+    right: 20px;
+    bottom: 50px;
+    background-color: #18e7c9;
+    border-radius: 100%;
+    z-index: 5;
+}

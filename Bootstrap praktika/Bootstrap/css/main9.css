@@ -1,0 +1,74 @@
+body{
+    background-color: whitesmoke;
+}
+.container{
+    background-image:url("../../rasmlar/color_body_bg_image.jpg");
+}
+.search{
+    position: relative;
+    left: 340px;
+    top: -50px;
+}
+.toptext{
+    font-size: 12px;
+    margin-top: -10px;
+}
+.home{
+    background-color: lightgray;
+}
+.top{
+    border-radius: 0px;
+    position: relative;
+    top: -95px;
+    left: 930px;
+}
+.a{
+    color: gray;
+}
+.a:hover{
+    color: gray;
+    text-decoration: none;
+}
+.font2{
+    font-size: 12px;
+}
+.font{
+    font-size: 14px;
+}
+.bgg1{
+    background-color: #62584d;
+}
+.textcol{
+    color: gray;
+}
+.mleft{
+    position: relative;
+    left: 80px;
+}
+.margin{
+    position: relative;
+    top: -10px;
+}
+.btnbag{
+    background-color: #ef9393;
+}
+.with {
+    width: 40px;
+    height: 40px;
+}
+.bgg{
+    background-color: #fcfcfc;
+}
+.bg1{
+    background-color: #c5eaf6;
+    height: 95px;
+}
+.btnbag1{
+    background-color: #ffcfcf;
+}
+.textfont{
+    font-size: 13px;
+}
+.textcol{
+    color: gray;
+}
